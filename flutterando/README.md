@@ -10,7 +10,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Screeshot
+## Screenshot
 
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="assets/screenshot.png" alt="Logo" width="200">
